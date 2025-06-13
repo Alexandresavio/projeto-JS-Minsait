@@ -39,5 +39,5 @@ Este projeto **não implementa autenticação real com segurança**. É apenas u
 
 ## ✨ Autor
 
-Desenvolvido por [Sávio Alexandre].
+Desenvolvido por Sávio Alexandre.
 
