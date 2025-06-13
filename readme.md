@@ -4,13 +4,7 @@ Este é um projeto simples de página de login desenvolvido com HTML, CSS e Java
 
 ## 📁 Estrutura de Pastas
 
-/projeto/
-├── index.html           # Página de login
-├── principal.html       # Página principal após login
-├── js/
-│   └── script.js        # Lógica de autenticação
-└── css/
-└── estilo.css       # Estilização do layout
+![Estrutura do projeto](img\Screenshot_1.png)
 
 
 ## 🚀 Como usar
