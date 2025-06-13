@@ -6,7 +6,6 @@ Este é um projeto simples de página de login desenvolvido com HTML, CSS e Java
 
 ![Estrutura do projeto](img\Screenshot_1.png)
 
-
 ## 🚀 Como usar
 
 1. **Clone ou baixe o projeto** no seu computador.
