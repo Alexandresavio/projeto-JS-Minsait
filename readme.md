@@ -2,9 +2,6 @@
 
 Este é um projeto simples de página de login desenvolvido com HTML, CSS e JavaScript. Ao realizar o login com sucesso, o usuário é redirecionado para a página principal do sistema.
 
-## 📁 Estrutura de Pastas
-
-![Estrutura do projeto](img\Screenshot_1.png)
 
 ## 🚀 Como usar
 
